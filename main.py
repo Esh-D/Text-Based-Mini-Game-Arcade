@@ -1,11 +1,9 @@
 '''
 #Eshika Dey 
 #Jan 22 2017
-#A compilation of 5 mini-games in one program (hence, a text-based Mini Game Arcade)
+#A compilation of 5 mini-games in one program (hence,  a text-based Mini Game Arcade)
 
 # NOTE: I use "player" and "user" interchangably in the comments
-# NOTE: The dividers are used for Organization and Aesthetic reasons
-# NOTE: Some of the comments in the code are repetative such as the ones for the "again" variable
 
 Aspects of "Eshika's Mini-Game Arcade:
   Main Menu
