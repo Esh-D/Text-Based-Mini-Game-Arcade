@@ -1,6 +1,6 @@
-Text-Based-Mini-Game-Arcade-in-Python
+#Text-Based-Mini-Game-Arcade-in-Python
 
-A compilation of 5 mini-games in one program.
+##A compilation of 5 mini-games in one program.
 
 
 Aspects of "Eshika's Mini-Game Arcade:
