@@ -1,16 +1,16 @@
 # Text-Based-Mini-Game-Arcade-in-Python
 
-### A compilation of 5 mini-games in one program.
+A compilation of 5 mini-games in one program.
 
 
 ## Aspects of "Eshika's Mini-Game Arcade:
 
-#### Main Menu
+### Main Menu
     User will be welcomed to the Arcade.
     User will choose which game they would like to play.
     Chosen game will begin.
     
-#### Games
+### Games
 	1. Guess the Number
 		* User is greeted to the game.
 		* User is told how to play/given a description of the game.
