@@ -11,15 +11,15 @@ A compilation of 5 mini-games in one program.
     Chosen game will begin.
     
 ### Games
-	1. Guess the Number
-		* User is greeted to the game.
-		* User is told how to play/given a description of the game.
-		* User sets the range of numbers they would like to guess from.
-		* User attempts to guess the number.
-		* Game is over when the user guesses the number correctly.
-		* User is asked if they want to PLAY AGAIN or GO BACK TO MENU
-		* IF user Plays Again they are asked if they want to change the number range.
-		* IF user Plays Again, game begins again.
+1. Guess the Number
+  * User is greeted to the game.
+  * User is told how to play/given a description of the game.
+  * User sets the range of numbers they would like to guess from.
+  * User attempts to guess the number.
+  * Game is over when the user guesses the number correctly.
+  * User is asked if they want to PLAY AGAIN or GO BACK TO MENU
+  * IF user Plays Again they are asked if they want to change the number range.
+  * IF user Plays Again, game begins again.
 
   2. Rock, Paper, Scissors
     User is greeted to the game.
