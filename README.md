@@ -12,7 +12,7 @@ Main Menu
     
 Games
 	1. Guess the Number
-		User is greeted to the game.\
+		*User is greeted to the game.
 		User is told how to play/given a description of the game.\
 		User sets the range of numbers they would like to guess from.\
 		User attempts to guess the number.\
